@@ -64,3 +64,4 @@ NetAegis is a web-based Intrusion Detection System (IDS) that combines **Isolati
 - Models tested on unseen data to validate generalization
 
 ---
+**Suggestions, improvements, and feedback are welcome to enhance the project further !**
